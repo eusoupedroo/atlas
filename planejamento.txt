@@ -1,0 +1,27 @@
+- HomePage
+
+- Acessar Conta / Registrar Conta (Usuário & Autenticação)
+
+Entidades {
+    Modelo Usuário {
+        E-mail
+        Senha
+        Nome de Usuário
+        Filmes Já Vistos
+    }
+
+    Modelo Filmes/Series {
+        Thumb
+        Titulo
+        Descrição
+        Categoria
+        Data Upload
+        Quantidade de Views
+        Episodios {
+            Titulo 
+            Videos
+        }
+    }
+
+    Barra de Pesquisa 
+} 
