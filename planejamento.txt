@@ -10,7 +10,7 @@ Entidades {
         Filmes Já Vistos
     }
 
-    Modelo Filmes/Series {
+    Modelo Podcasts {
         Thumb
         Titulo
         Descrição
